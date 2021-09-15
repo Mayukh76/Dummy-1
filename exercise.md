@@ -6,4 +6,4 @@ adults,pets, animals and birds.
 
 This is
 The toothbrush requires 6 devices.
-Conflict introduced.
+ new line modified.
